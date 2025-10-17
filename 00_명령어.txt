@@ -6,3 +6,4 @@ docker push atangi/fastapi-server:1.0
 /github-webhook/
 check
 CD2
+ss
