@@ -5,3 +5,4 @@ docker push atangi/fastapi-server:1.0
 새로 변경한 사항
 /github-webhook/
 check
+CD
